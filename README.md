@@ -193,6 +193,4 @@ A continuación dejo las capturas que soportan el desarrollo y las pruebas reali
 ![](images/Desarrollo/Code_Function_FibonacciMemoized_Part6_Test_Page.png)
 
 ![](images/Desarrollo/Code_Function_FibonacciMemoized_Part6_Test_Postman.png)
-
-![](images/Desarrollo/Code_Function_Fibonacci_Changed_Part5.png)
   
